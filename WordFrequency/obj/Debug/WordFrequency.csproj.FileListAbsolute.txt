@@ -1,0 +1,6 @@
+C:\Users\wandab\Documents\My Projects\FedGroup Assessment\Exercise 1\WordFrequency\WordFrequency\bin\Debug\WordFrequency.exe.config
+C:\Users\wandab\Documents\My Projects\FedGroup Assessment\Exercise 1\WordFrequency\WordFrequency\bin\Debug\WordFrequency.exe
+C:\Users\wandab\Documents\My Projects\FedGroup Assessment\Exercise 1\WordFrequency\WordFrequency\bin\Debug\WordFrequency.pdb
+C:\Users\wandab\Documents\My Projects\FedGroup Assessment\Exercise 1\WordFrequency\WordFrequency\obj\Debug\WordFrequency.csprojResolveAssemblyReference.cache
+C:\Users\wandab\Documents\My Projects\FedGroup Assessment\Exercise 1\WordFrequency\WordFrequency\obj\Debug\WordFrequency.exe
+C:\Users\wandab\Documents\My Projects\FedGroup Assessment\Exercise 1\WordFrequency\WordFrequency\obj\Debug\WordFrequency.pdb
